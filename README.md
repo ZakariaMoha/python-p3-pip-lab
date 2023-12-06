@@ -37,7 +37,7 @@ specific versions of Python and libraries.
 
 - Using the command `pipenv --python 3.8.13`, set up a virtual
   environment using Python 3.8.13.
-- Using the `pipenv install` command install these versions of the following libraries
+- Using the `pipenv install` command install these versions of the following librariespython 3.8.13
  `requests==2.27.1` and `pytest==7.1.3`
 
 Run `pipenv shell` to enter the virtual environment. Then run
